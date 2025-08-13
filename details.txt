@@ -1,0 +1,8 @@
+
+Name: P.Sameera
+Gender: F
+Course: BCA
+College: Aditya School of Computer Science
+SUC no: 2358250017
+Grade: 8.7
+Academic Year: 2023-2026
